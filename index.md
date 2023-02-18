@@ -1,2 +1,2 @@
 #Hello
-This is a learning site!
+This is a learning site :)
