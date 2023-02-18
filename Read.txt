@@ -1,4 +1,4 @@
-t# This repo is to learn git
+# This repo is to learn git
 
 1- Add ssh key to your local computer
 https://www.youtube.com/watch?v=RGOj5yH7evk 
