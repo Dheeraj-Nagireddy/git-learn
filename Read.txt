@@ -1,4 +1,4 @@
-# This repo is to learn git
+t# This repo is to learn git
 
 1- Add ssh key to your local computer
 https://www.youtube.com/watch?v=RGOj5yH7evk 
@@ -10,4 +10,8 @@ git add . or git add file name
 git commit -m "commit message" -m "description"
 git push
 
-3- 
+3- To create a new branch
+git branch
+git checkout -b "branch name"
+git checkout "branch name"
+
